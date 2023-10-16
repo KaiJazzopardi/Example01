@@ -1,3 +1,28 @@
 .setcolor{
     color: blue;
 }
+
+ul li{
+    font-family: Arial,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif Helvetica, sans-serif;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+td{
+    border-top: black solid 1px;
+    border-left: black solid 1px;
+}
+
+.lastCol{
+    border-right: black solid 1px;
+}
+
+.lastRow{
+    border-bottom: black solid 1px;
+}
+
+*{
+    box-sizing: border-box;
+}
